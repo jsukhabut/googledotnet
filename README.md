@@ -1,5 +1,3 @@
-# googledotnet
-
 ## Configuration Provider for GCloud Secret Manager
 
 Configuration provider for Microsoft.Extensions.Configuration framework.
